@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "77354775575",
+    "firebase_url": "https://talk-eacb3.firebaseio.com",
+    "project_id": "talk-eacb3",
+    "storage_bucket": "talk-eacb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77354775575:android:34ae01268b3779c6",
+        "android_client_info": {
+          "package_name": "kr.ac.hs.hdtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77354775575-ou0lf9pnqk1cg6nmd0nh25g5bcudcdlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.ac.hs.hdtalk",
+            "certificate_hash": "0a8cdb324dc41090926e4ecd2e2ba8d67692b0db"
+          }
+        },
+        {
+          "client_id": "77354775575-lk7l0jsohmhkdn258jt9bau890gjju4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSH3p2paJCfbDzTcxnlzL_QwuCG7GNXuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77354775575-lk7l0jsohmhkdn258jt9bau890gjju4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
